@@ -2,6 +2,7 @@
 <services>
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
         <servicesKeys>
+            <keyDetails collectionKey="ccs:test2" connectorServiceName="ccs:test2"/>
             <keyDetails collectionKey="ccs:test_ccs" connectorServiceName="ccs:test_ccs"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
